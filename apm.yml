@@ -1,0 +1,7 @@
+name: skills
+version: 0.1.0
+description: Skills and agents for writing for readers, writing instructions, thinking like Linus, and delegating to subagents.
+author: takagiy
+license: MIT
+repository: https://github.com/takagiy/skills
+includes: auto
