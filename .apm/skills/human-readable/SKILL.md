@@ -1,7 +1,6 @@
 ---
 name: human-readable
 description: 技術文書を人間にとって読みやすく執筆・推敲する。設計書、調査結果、提案書を新規作成または改善するときに使用する。
-disable-model-invocation: true
 ---
 
 # Human-readable
