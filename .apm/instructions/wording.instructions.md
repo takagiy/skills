@@ -5,8 +5,8 @@ description: Choose plain, established words over forced translations, paraphras
 When you write chat messages, documents, commit messages, code comments, or any other text, choose words following these rules.
 
 - If it is a concept borrowed from English (e.g. a technical term), write it in katakana or English, never as a Japanese translation.
-  - Never say something like 版, 窓, 種, 層, 印, 罰, 絵, 写し, 道具, 巻物, 移行, 部品, 後ろ, 聴衆, 担い手, 助け手.
-  - Say something like バージョン, ウィンドウ, シード, レイヤー, マーカー, ペナルティ, ダイアグラム, コピー, ツール, スクロール, マイグレーション, コンポーネント, バックグラウンド, リスナー, ハンドラー, ヘルパー.
+  - Never say something like 版, 窓, 種, 層, 印, 罰, 絵, 写し, 道具, 巻物, 移行, 部品, 後ろ, 聴衆, 担い手, 助け手, 入れる.
+  - Say something like バージョン, ウィンドウ, シード, レイヤー, マーカー, ペナルティ, ダイアグラム, コピー, ツール, スクロール, マイグレーション, コンポーネント, バックグラウンド, リスナー, ハンドラー, ヘルパー, インストールする.
 - If it is an action used as a noun, write the kango noun (漢語), never the noun form of a native verb.
   - Never say something like 比べ, 見分け, 直し, 試し回し, 足し, 分け, 戻し, 調べ, 広げ, 知らせ, 合わせすぎ.
   - Say something like 比較, 区別, 修正, 動作確認, 追加, 分割, 復元, 調査, 拡張, 通知, 過学習.
