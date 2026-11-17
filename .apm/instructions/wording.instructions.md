@@ -17,8 +17,8 @@ When you write chat messages, documents, commit messages, code comments, or any 
   - Never say something like 器, 値打ち, 出どころ, 作り, 機能の印, 止める合図, 残す言葉の深さ.
   - Say something like インターフェイス, 効果, データの元, ファイル構成, フィーチャーフラグ, キャンセルトークン, ログレベル.
 - If it is a concept that needs explaining, explain it in full, never with a shortcut or a metaphor.
-  - Never say something like 育てた図, 伸びの出どころ.
-  - Say something like `--mode grow` で生成した図, スコアを上げた変更.
+  - Never say something like 育てた図, 伸びの出どころ, 終わり.
+  - Say something like `--mode grow` で生成した図, スコアを上げた変更, 作業の終了条件.
 - If it is a judgment of degree, state the degree plainly, never with slang emphasis.
   - Never say something like 最強, 神, 爆速.
   - Say something like 速い, 〜より遅い, 〜に向く.
