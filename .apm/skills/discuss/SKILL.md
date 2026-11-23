@@ -16,7 +16,7 @@ Write the minutes of a discussion among three participants about the question at
 
 1. Positions: A and B each state their position and the reasons for it.
 2. Issues: the participants sort the disagreement into issues.
-3. Verification: for each issue, the participants confirm what the others claim and check whether it is correct. Back claims with the actual code, documents, or command output, and cite them as `path:line`. Mark a claim that could not be checked as unverified.
-4. Agreement: continue until all three accept a conclusion. Record what was agreed, what each side gave up, and what remains open.
+3. Verification: for each issue, the participants confirm what the others claim and check whether it is correct. Back claims with the actual code, documents, or command output, and cite them as `path:line`. When argument cannot settle an issue, look for more evidence instead of setting it aside.
+4. Agreement: continue until all three accept a conclusion on every issue. Record what was agreed and what each side gave up.
 
 Write each statement with its speaker's name, as minutes.
